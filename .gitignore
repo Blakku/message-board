@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Django
+db.sqlite3
+db.sqlite3-journal
+staticfiles/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Django generated files
+db.sqlite3
+db.sqlite3-journal
+staticfiles/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Test and coverage
+.coverage
+htmlcov/
+.pytest_cache/
+# Python virtual environments
+venv/
+.venv/
+env/
